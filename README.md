@@ -1,2 +1,5 @@
 # magnum-opus
-probando 
+
+project for Elmer inc. 
+
+Team Members: Élmer López
